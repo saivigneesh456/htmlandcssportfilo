@@ -1,6 +1,3 @@
-# Live demo(
-# htmlandcssportfilo
-
 <html>
 <style>
 /* Global Styles */
@@ -47,19 +44,19 @@ a:hover {
 }
 
 .resume-link {
-  display: inline-block;
-  background-color: #fff;
-  color: red;
-  padding: 8px 16px;
-  border: 2px solid #007bff;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: bold;
+    display: inline-block;
+    background-color: #fff;
+    color: #007bff;
+    padding: 8px 16px;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .resume-link:hover {
-  background-color: #007bff;
-  color: #fff;
+    background-color: #007bff;
+    color: #fff;
 }
 
 /* Left and Right Columns */
@@ -291,4 +288,3 @@ accessible and cost-effective.</li></ul>
      <div id="footer"></div>
     </body>
 </html>
-
