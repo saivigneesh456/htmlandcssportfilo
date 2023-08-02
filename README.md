@@ -48,7 +48,7 @@ a:hover {
 .resume-link {
   display: inline-block;
   background-color: #fff;
-  color: #007bff;
+  color: red;
   padding: 8px 16px;
   border: 2px solid #007bff;
   border-radius: 4px;
