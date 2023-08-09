@@ -105,6 +105,7 @@ table {
   margin-bottom: 20px;
 }
 
+
 th,
 td {
   border: 1px solid #ccc;
